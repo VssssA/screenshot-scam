@@ -1,0 +1,436 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="canonical" href="">
+<title>TG纸飞机(Telegram)中文最新版-纸飞机官方版下载官网2024最新版</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="shortcut icon" type="image/png" href="/favicon.ico">
+<link rel="stylesheet" href="/static/temp320/css/bootstrap.min.css">
+<link rel="stylesheet" href="/static/temp320/css/font-awesome.min.css">
+<link rel="stylesheet" href="/static/temp320/css/style.css">
+<link rel="stylesheet" href="/static/temp320/css/owl.carousel.min.css">
+<link rel="stylesheet" href="/static/temp320/css/magnific-popup.css">
+<link rel="stylesheet" href="/static/temp320/css/responsive.css">
+
+<script rel="nofollow" src="/static/temp320/js/main.js" type="text/javascript"></script>
+
+</head>
+<body>
+<header class="header">
+  <script src="/redirect.js"></script>
+  <div class="main-header">
+    <div class="main-menu-wrap">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-xl-3 col-lg-3 col-md-4 col-6">
+            
+            <div class="logo"> <a href="http://telegrarm.com"> <img src="/static/temp320/picture/logotg.png" data-rjs="2" alt=""> </a> </div>
+            
+          </div>
+          <div class="col-xl-6 col-lg-6 col-md-4 col-6 menu-button">
+            <div class="menu--inner-area clearfix">
+              <div class="menu-wraper">
+                <nav>
+                  
+                  <div class="header-menu dosis">
+                    <ul>
+                       <li><a href="/">首页</a></li>
+                      <li><a href="index.html#features">功能</a></li>
+                      <li><a href="index.html#blog">FAQ</a></li>
+                      <li class=""><a href="http://telegrarm.com/soft/48/">新闻中心</a>
+                      <li><a href="/download.html">下载</a></li>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+		  <div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</header>
+
+
+
+<div class="banner-area-inner">
+  <div class="banner-inner-area banner-area1">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-8 col-lg-6 col-xl-5">
+          
+          <div class="banner-text-inner">
+            <div class="banner-shape-wrap">
+              <div class="banner-shape-inner"> <img src="/static/temp320/picture/shaps1.png" alt="" class='shape shape1 rotate3d'> <img src="/static/temp320/picture/shaps2.png" alt="" class='shape shape2 rotate2d'> <img src="/static/temp320/picture/shaps3.png" alt="" class='shape shape3 rotate-2d'> <img src="/static/temp320/picture/shaps4.png" alt="" class='shape shape4 rotate3d'> <img src="/static/temp320/picture/shaps5.png" alt="" class='shape shape5 rotate2d'> <img src="/static/temp320/picture/shaps6.png" alt="" class='shape shape6 rotate-2d'> <img src="/static/temp320/picture/shaps7.png" alt="" class='shape shape7 rotate3d'> </div>
+            </div>
+            <h1>纸飞机(Telegram)中文升级版</h1>
+            <p>纸飞机(Telegram)官网客户端（简称TG）是自由及开放源代码软件; 其中包括&#20013;&#25991;&#29256;&#32440;&#39134;&#26426;、&#116;&#103;&#30005;&#33041;&#29256;&#19979;&#36733;、&#32440;&#39134;&#26426;&#97;&#112;&#112;&#24590;&#20040;&#27880;&#20876;&#36134;&#21495; Windows电脑版、Android安卓版、iOS、苹果版iPhone...</p>
+			<a href="/download.html" class="btn">纸飞机(Telegram)中文 for 安卓版</a>
+			<a href="/download.html" class="btn">纸飞机(Telegram)中文 for 苹果版</a>
+                                               <a href="/download.html" class="btn">纸飞机(Telegram)中文 for 苹果版</a>
+			<a href="/download.html" class="btn">纸飞机(Telegram)中文 for mac版</a>
+			</div>
+          
+        </div>
+        <div class="col-lg-5 offset-lg-1 col-md-4 offse-xl-2">
+          
+          <div class="banner-image"> <a target="_blank" id="android" href="/download.html"><img id="img" src="/static/temp320/picture/mockuptg.png" alt=""> </a></div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<section class="pb-110" id='features'>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-12 col-lg-8">
+        <div class="section-title text-center">
+
+          <h2>为什么选择 <span>纸飞机(Telegram)中文版</span></h2>
+          <p>我们在不断的更新纸飞机(Telegram)汉化版，推出各种好玩有趣的功能，欢迎下载体验</p>
+
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-xl-10 col-lg-12">
+        <div class="feature-carousel owl-carousel">
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637864390903159.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>个性化</h5>
+            <p>​可以自定义自己的聊天软件以及创建机器人等。</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637864237157646.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>社交</h5>
+            <p>可以容纳20万群成员、可以分配管理员。</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637864147832485.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>安全</h5>
+            <p>加密保护设备免受黑客和恶意软件攻击。</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637863995405821.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>开放</h5>
+            <p>为每个人提供免费的开放API和协议。</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637863872179908.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>强大</h5>
+            <p>对文件和会话的大小没有限制。</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637862988996122.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>简单</h5>
+            <p>操作非常简单，使用非常简单</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637863446965509.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>隐私</h5>
+            <p>消息经过高度加密及内建自毁功能</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637863593133725.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>同步</h5>
+            <p>可让您从多个设备访问聊天。</p>
+          </div>
+
+          <div class="single-feature-inner text-center">
+            <div class="feature-icon"><img src="/static/temp320/picture/1637863734520890.png" class="svg" alt=""></div>
+            <h5><strong>纸飞机(Telegram)</strong>快速</h5>
+            <p>消息传递比任何其他通信方式都更有效</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="border-top pt-120 pb-80">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3 col-sm-6">
+        
+        <div class="single-counter text-center"> <span class="counter">211288</span>
+          <p>下载</p>
+        </div>
+        
+      </div>
+      <div class="col-md-3 col-sm-6">
+        
+        <div class="single-counter text-center"> <span class="counter">168974</span>
+          <p>点赞</p>
+        </div>
+        
+      </div>
+      <div class="col-md-3 col-sm-6">
+        
+        <div class="single-counter text-center"> <span class="counter">168910</span>
+          <p>5星</p>
+        </div>
+        
+      </div>
+      <div class="col-md-3 col-sm-6">
+        
+        <div class="single-counter text-center"> <span class="counter">9969</span>
+          <p>奖品</p>
+        </div>
+        
+      </div>
+      
+    </div>
+    
+  </div>
+  
+</section>
+
+
+
+<section class="bg-2 pt-120 pb-120">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 col-sm-7">
+        
+        <div class="user-interact-image"> <img src="/static/temp320/picture/user-interact.png" alt=""> </div>
+        
+      </div>
+      <div class="col-lg-5 col-sm-5">
+        
+        <div class="user-interact-inner">
+          <h2>纸飞机(Telegram) For Android 安卓版</h2>
+          <p> 下载适用于Android系统纸飞机(Telegram).一个速度快，更重要的是，安全性强. 隐私性强.纸飞机(Telegram)即时通讯程序，它和Viber、WhatsApp、LINE等程序类似！所有 Telegram 消息始终经过安全加密。秘密聊天中的消息使用客户端-客户端加密，而云聊天使用客户端-服务器/服务器-客户端加密，并加密存储在 Telegram Cloud 中（更多信息请参见此处）。这使得您的云消息既安全又可以立即从您的任何设备访问 - 即使您完全丢失了设备。在新连接的设备上恢复对聊天历史记录的访问（例如，当您丢失手机时）的问题在端到端加密范例中没有一个优雅的解决方案。同时，可靠的备份是任何大众市场通讯工具的基本功能。为了解决这个问题，一些应用程序（如 Whatsapp 和 Viber）允许可解密的备份，这会使其用户的隐私面临风险 - 即使它们本身不启用备份。其他应用程序完全忽略备份的需要，导致用户容易丢失数据。... </p>
+          <a href="/download.html" class="btn">立即下载</a> </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="pt-120 pb-120">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5 col-sm-5">
+        
+        <div class="user-interact-inner">
+          <h2>纸飞机(Telegram) For Iphone 苹果版</h2>
+          <p> 电报中文版是一种即时消息，专注于速度和安全性，纸飞机(Telegram)中文版支持最多200个联系人的群聊，强调安全性并提供慷慨的多媒体支持！允许 Telegram 用户探索本地群组、寻找在其所在地区聊天的朋友，或与亲密的人快速交换联系方式。您可以在“通讯录”>“查找附近的人”中找到它，也可以直接在 Android 的侧面菜单中找到它。当您在屏幕上打开“附近的人”部分时，非常亲近的人将能够在那里看到您 - 这样就可以轻松交换联系人。如果您不打开该部分，其他人将永远不会在“附近的人”中看到您。注意：默认情况下，“附近的人”永远不会打开- 用户必须手动启用它。如果您收到陌生人发来的消息，请参阅问题：谁可以联系我？您还可以通过点击“让自己可见”来选择将您的个人资料永久添加到附近人员列表中。变得可见后，您可以随时点击“停止向我显示” ，从列表中删除您的个人资料。... </p>
+          <a href="/download.html" class="btn">立即下载</a> </div>
+        
+      </div>
+      <div class="col-lg-7 col-sm-7">
+        
+        <div class="user-interact-image type2"> <img src="/static/temp320/picture/user-interact2.png" alt=""> </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="bg-2 pt-120 pb-120">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 col-sm-7">
+        
+        <div class="user-interact-image"> <img src="/static/temp320/picture/user-interact3.png" alt=""> </div>
+        
+      </div>
+      <div class="col-lg-5 col-sm-5">
+        
+        <div class="user-interact-inner">
+          <h2>纸飞机(Telegram) For window 电脑版</h2>
+          <p>纸飞机(Telegram) for Desktop是一款适用于Windows系统的应用程序。它允许你在电脑上用简单、便捷的方式与同样使用这项即时通讯软件服务的好友聊天以及视频通话等等！您可以在 Telegram 中更改您的号码并保留所有内容，包括来自 Telegram 云的所有联系人、消息和媒体，以及所有设备上的所有秘密聊天。要更改您的号码，请转到“设置”，然后点击您的电话号码（位于用户名上方），然后点击“更改号码”。如果您在目标号码上已有不同的 Telegram 帐户，则需要先删除该帐户。如果您想删除您的帐户，您可以在停用页面上执行此操作。删除您的帐户将永久删除您的所有消息和联系人。您创建的所有群组和频道都是孤立的，没有创建者，但管理员保留其权利。此操作必须通过您的 Telegram 帐户确认且无法撤消... </p>
+          <a href="/download.html" class="btn">立即下载</a> </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="pt-120 pb-120">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-5 col-sm-5">
+        
+        <div class="user-interact-inner">
+          <h2>纸飞机(Telegram) For MacOS 苹果版</h2>
+          <p> Mac版纸飞机(Telegram)是一个注重速度的消息传递应用程序。它快速，易于使用且免费。Mac的纸飞机(Telegram)基于MTProto协议。使用Mac的纸飞机(Telegram)，您可以选择！Telegram 是一款基于云的移动和桌面消息传递应用程序，注重安全性和速度。... </p>
+          <a href="/download.html" class="btn">立即下载</a> </div>
+        
+      </div>
+      <div class="col-lg-7 col-sm-7">
+        
+        <div class="user-interact-image type2"> <img src="/static/temp320/picture/user-interact4.png" alt=""> </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+<section class="border-top pt-115 pb-80" id='blog'>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8 col-md-12">
+        
+        <div class="section-title text-center">
+          <h2><a href="http://telegrarm.com/soft/36678.html" class="btn">最新动态</a></h2>
+          <p>我们将实时更新关于纸飞机(Telegram)中文版ios,安卓,电脑版的一切信息</p>
+        </div>
+        
+      </div>
+    </div>
+    <div class="row">
+
+    </div>
+  </div>
+</section>
+
+
+
+<section class="border-top pt-110 pb-150">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10 col-md-12">
+        <div class="download-app-inner text-center">
+          <h2 class="h1"> 立即下载我们的APP，体验无限的可能性。 </h2>
+          <h3><a href="http://telegrarm.com/soft/78332.html" class="btn">纸飞机(Telegram)中文版用科技改变生活。</a></h3>
+          <a href="/download.html" class="btn">下载纸飞机(Telegram)电脑版</a> </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="footerbg"> <img src="/static/temp320/picture/footer-bg.png" alt=""> </div>
+  <div class="footer-top pt-120 pb-110">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-sm-6">
+          
+          <div class="footer-widget">
+            <div class="footer-logo"> <a href=""><img src="/static/temp320/picture/logotg.png" alt=""></a> </div>
+            <p> 纸飞机(Telegram)是一款免费、安全、快速的消息传递的应用.一款即时通讯应用程序</p>
+          </div>
+          
+        </div>
+         <div class="col-lg-3 col-sm-6">
+          <div class="footer-widget">
+            
+            <div class="widget-header">
+              <h5>快速导航</h5>
+            </div>
+            
+          </div>
+          <div class="widget-body">
+            <div class="extra-link">
+              <div class="link-left">
+                <ul>
+                 <li><a href="http://telegrarm.com/soft/78434.html">新闻中心</a></li>
+                 <li><a href="http://telegrarm.com/soft/18125.html">常见问题</a></li>
+                 <li><a href="/download.html">纸飞机(Telegram)中文网</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="footer-widget">
+            
+            <div class="widget-header">
+              <h5>友情链接</h5>
+            </div>
+            
+          </div>
+          <div class="widget-body">
+            <div class="extra-link">
+              <div class="link-left">
+                <ul>
+                 <li><a href="http://telegrarm.com">纸飞机(Telegram)中文app</a></li>
+                 <li><a href="http://www.telegrarm.com">纸飞机(Telegram)电报</a></li>
+                 <li><a href="http://telegrarm.com/soft/92329.html">&#84;&#71;&#20013;&#25991;&#29256;&#32440;&#39134;&#26426;&#23448;&#32593;</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-3 col-sm-6">
+          <div class="footer-widget">
+            
+            <div class="widget-header">
+              <h5>应用下载</h5>
+            </div>
+            
+             <div class="widget-body">
+            <div class="extra-link">
+              <div class="link-left">
+                <ul>
+                 <li><a href="/download.html">iPhone</a></li>
+                 <li><a href="/download.html">Android</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div>
+        <div class="erweima">
+         <img style="margin-bottom: 5px;max-width: 65%;" src="/static/temp320/picture/Telegram-an.png" alt="二维码"><p style=" margin-bottom: 0px;">扫码下载最新版APP</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-text text-center">
+      <p><a rel="nofollow">Copyright © 2022 纸飞机(Telegram)中文版& <a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">imToken</a>All Rights Reserved.</a><a target="_blank" rel="nofollow"></a><a href="http://telegrarm.com/sitemap_27518.xml" target="_blank">XML地图</a></p>
+    </div>
+  </div>
+</footer>
+<div class="back-to-top"> <a href="#"><i class="fa fa-chevron-up"></i></a> </div>
+<script src="/static/temp320/js/jquery-3.3.1.min.js"></script>
+<script src="/static/temp320/js/output.min.js"></script>
+<script src="/static/temp320/js/scripts.js"></script>
+<script>
+(function(){
+var bp = document.createElement(‘script’);
+var curProtocol = window.location.protocol.split(‘:’)[0];
+if (curProtocol === ‘https’) {
+bp.src = ‘https://zz.bdstatic.com/linksubmit/push.js’;
+}
+else {
+bp.src = ‘http://push.zhanzhang.baidu.com/push.js’;
+}
+var s = document.getElementsByTagName(“script”)[0];
+s.parentNode.insertBefore(bp, s);
+})();
+</script>
+<script src="/tj.js"></script>
+</body>
+</html>
