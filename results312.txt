@@ -435,5 +435,3 @@ s.parentNode.insertBefore(bp, s);
 </body>
 </html>
 	Phishing	1.230026364326477merge_targetlist/RBC Royal Bank/T111_28.png
-http://telegrarm.com/	Phishing	1.230026364326477merge_targetlist/RBC Royal Bank/T111_28.png
-http://telegrarm.com/	Phishing	1.230026364326477merge_targetlist/RBC Royal Bank/T111_28.png
